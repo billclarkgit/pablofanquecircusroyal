@@ -78,3 +78,5 @@ nav a[aria-current="page"]{color:var(--gold);text-decoration:underline;text-unde
 .backstory-acts{margin:0}.backstory-acts>div{border-top:1px solid var(--line);padding:14px 0}.backstory-acts dt{color:var(--gold);font-size:18px}.backstory-acts dd{margin:5px 0 0;color:var(--muted)}
 .backstory-sources{margin-top:28px;padding-top:16px;border-top:1px solid var(--line)}.backstory-sources h2{font-size:20px}.backstory-sources ol{padding-left:22px;font-size:13px;color:var(--muted)}.backstory-sources a{text-decoration:underline;text-underline-offset:3px}
 @media(max-width:600px){.backstory{padding:26px 5%}.backstory-opening{grid-template-columns:1fr;gap:18px}.backstory-opening img{width:130px;justify-self:center}.backstory-prose h2{font-size:25px}.backstory-prose section{padding-top:22px}footer{flex-wrap:wrap}footer .copyright{display:inline;order:3;flex-basis:100%;font-size:12px}.story-link h2{font-size:25px}}
+
+.backstory-prose .concept-question{color:var(--gold);font-size:23px;font-style:italic;margin:20px 0}.backstory-prose .concept-closing{border-top:1px solid var(--line);padding-top:22px;margin-top:26px;color:var(--gold);font-size:20px;font-style:italic}
