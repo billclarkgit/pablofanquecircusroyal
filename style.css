@@ -107,3 +107,8 @@ nav a[aria-current="page"]{color:var(--gold);text-decoration:underline;text-unde
 @media(min-width:901px){.music-grid .album-info{min-height:90px}}
 @media(max-width:900px){.act-story-layout{grid-template-columns:1fr;gap:18px}.music-grid{grid-template-columns:1fr;max-width:650px;margin:auto}.music-grid .select-track,.music-grid .track-line{min-height:44px}.music-grid .album-info,.music-grid .controls{min-height:0}.music-grid .status{min-height:16px}}
 @media(max-width:600px){.act-song-stories{grid-template-columns:1fr;gap:12px}.music-section{padding:28px 5%}.act-song-stories p{font-size:14px}}
+
+/* Keep the three music columns; descriptions expand only when requested. */
+.act-story-layout{display:block}.act-story-layout .narrative{max-width:900px}
+.music-grid .inline-track-story{font-size:13px;line-height:1.6;margin:0 0 14px 22px;padding-right:6px}
+.music-grid .inline-track-story[hidden]{display:none}
