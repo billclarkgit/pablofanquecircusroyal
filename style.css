@@ -80,3 +80,30 @@ nav a[aria-current="page"]{color:var(--gold);text-decoration:underline;text-unde
 @media(max-width:600px){.backstory{padding:26px 5%}.backstory-opening{grid-template-columns:1fr;gap:18px}.backstory-opening img{width:130px;justify-self:center}.backstory-prose h2{font-size:25px}.backstory-prose section{padding-top:22px}footer{flex-wrap:wrap}footer .copyright{display:inline;order:3;flex-basis:100%;font-size:12px}.story-link h2{font-size:25px}}
 
 .backstory-prose .concept-question{color:var(--gold);font-size:23px;font-style:italic;margin:20px 0}.backstory-prose .concept-closing{border-top:1px solid var(--line);padding-top:22px;margin-top:26px;color:var(--gold);font-size:20px;font-style:italic}
+
+/* The Acts tells the stories; The Music presents all eighteen tracks. */
+.act-story-layout{display:grid;grid-template-columns:.9fr 1.2fr;gap:32px;margin-top:20px}
+.act-song-stories{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:1fr 1fr;gap:15px 22px;align-content:start}
+.act-song-stories li{border-top:1px solid var(--line);padding-top:10px}
+.act-song-stories h3{font-size:15px;line-height:1.4;font-weight:normal;color:var(--gold);margin:0 0 5px}
+.act-song-stories p{font-size:13px;line-height:1.6;color:var(--muted);margin:0}
+.music-section{max-width:1440px;margin:auto;padding:32px 4%;border-top:1px solid var(--line)}
+.music-section>.eyebrow{margin:0}.music-section>h2{margin:7px 0 20px}
+.music-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;align-items:start}
+.music-grid .player{min-width:0;padding:16px}
+.music-grid .album-info{gap:12px;margin-bottom:14px;min-height:72px}
+.music-grid .album-info img{width:60px;height:60px;flex-shrink:0}
+.music-grid .album-info h3{font-size:20px}
+.music-grid .album-info>div{min-width:0}
+.music-grid .album-info .eyebrow{letter-spacing:1px;font-size:9px}
+.music-grid .controls{gap:7px;min-height:60px}
+.music-grid .now{min-width:0;font-size:13px}
+.music-grid .play{width:38px;height:38px;font-size:16px}
+.music-grid .prev,.music-grid .next{font-size:19px;padding:4px}
+.music-grid .select-track{min-height:55px;padding:8px 0;font-size:13px;gap:8px}
+.music-grid .track-line{min-height:55px}
+.music-grid .status{min-height:32px}
+.music-grid .tracks li.active{background:#c7a66a0b}
+@media(min-width:901px){.music-grid .album-info{min-height:90px}}
+@media(max-width:900px){.act-story-layout{grid-template-columns:1fr;gap:18px}.music-grid{grid-template-columns:1fr;max-width:650px;margin:auto}.music-grid .select-track,.music-grid .track-line{min-height:44px}.music-grid .album-info,.music-grid .controls{min-height:0}.music-grid .status{min-height:16px}}
+@media(max-width:600px){.act-song-stories{grid-template-columns:1fr;gap:12px}.music-section{padding:28px 5%}.act-song-stories p{font-size:14px}}
