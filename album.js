@@ -13,38 +13,38 @@ window.ALBUM = [
         "title": "Curtain Rises",
         "file": "audio/act-1-01.mp3",
         "download": false,
-        "description": "The grand introduction to Pablo Fanque's Circus Royal, welcoming the audience to an extraordinary evening."
+        "description": "An emerald-coated showman opens the circus as an invitation to leave fear behind. Beneath the lanterns, wonder and danger share the ring, and every fleeting moment becomes a chance to feel fully alive."
       },
       {
         "title": "The Thrill of Mr. K",
         "file": "audio/act-1-02.mp3",
         "download": false,
-        "description": "Mr. Kite takes center stage with a daring performance that captures the excitement of the circus."
+        "description": "High above the sawdust, Mr. K balances between exhilaration and death. Fire, flight and applause keep him performing, even as the crowd becomes a chain and the spectacle consumes the man at its centre."
       },
       {
         "title": "The Life and Death of Cock Robin",
         "file": "audio/act-1-03.mp3",
         "download": false,
-        "description": "W. F. Wallett presents his unusual and theatrical interpretation of the traditional tale, inspired by an original circus advertisement."
+        "description": "A sparrow’s careless shot kills Cock Robin, and the creatures around him gather to prepare his funeral. Their shared mourning unfolds alongside the killer’s remorse, turning a familiar nursery tale into a dark reflection on irreversible harm."
       },
       {
         "title": "Nymph of the Flowing Veil",
         "file": "audio/act-1-04.wav",
         "download": false,
-        "description": "A mysterious performer draws the audience into a surreal world where colors, shapes, and perceptions begin to dissolve.",
+        "description": "A veiled performer draws an onlooker into a seductive world of melting horses, impossible colours and shifting shapes. As fascination overwhelms reason, even a wedding ring and the vows it represents begin to lose their hold.",
         "available": true
       },
       {
         "title": "Unrelated Acts of Wonder",
         "file": "audio/act-1-05.mp3",
         "download": false,
-        "description": "Thomas \"Whimsical\" Walker brings eccentric humor and absurdity to the circus ring."
+        "description": "A weary clown looks back at the people watching him and recognises their worries, routines and loneliness as versions of his own. Behind the greasepaint and everyday respectability, performer and audience are struggling through the same precarious balancing act."
       },
       {
         "title": "Amateur Gentlemen",
         "file": "audio/act-1-06.mp3",
         "download": false,
-        "description": "Ordinary working men escape the routines of daily life for one splendid evening of excitement and wonder."
+        "description": "Clerks, tradesmen and mill workers dress up, drink and cheer their way through a rare evening at the circus. For a few hours they feel grand and invincible, before the train carries them back to work with a memory that will outlast the lights."
       }
     ],
     "lead": "The curtain rises, the performers assemble, and the audience enters a world of wonder."
@@ -64,7 +64,7 @@ window.ALBUM = [
         "title": "Slack Wire Siren",
         "file": "audio/act-2-01.mp3",
         "download": false,
-        "description": "Mr. Kite's sister captivates an admirer with her graceful, precarious performance high above the circus floor."
+        "description": "An unnamed admirer watches Mr. Kite’s sister balance on a slack wire, captivated by her grace and frightened for her safety. Her landing brings relief, but her brief appearance leaves an echo of longing long after she disappears."
       },
       {
         "title": "A Splendid Night",
@@ -82,19 +82,19 @@ window.ALBUM = [
         "title": "Henry was Zanthus",
         "file": "audio/act-2-04.mp3",
         "download": false,
-        "description": "A curious tale exploring Henry and the identity of Zanthus within the circus world."
+        "description": "Given the grand name Zanthus, a spirited circus horse prefers stolen lunches, muddy coats and stableyard mischief to mythical glory. To the people who know him, he is simply Henry: a lovable rascal whose character matters more than his name."
       },
       {
         "title": "La Sprite Diavolo",
         "file": "audio/act-2-05.mp3",
         "download": false,
-        "description": "A male tightrope performer struggles with two conflicting sides of his personality, one maliciously urging the other toward destruction."
+        "description": "A trembling tightrope performer tries to turn fear into momentum while a taunting voice urges greater risk. The exchange becomes a struggle between self-preservation and the seductive promise of becoming a story through a fall."
       },
       {
         "title": "On the Tightrope",
         "file": "audio/act-2-06.mp3",
         "download": false,
-        "description": "A reflective exploration of fear, uncertainty, love, and the delicate balance between holding on and letting go."
+        "description": "The tightrope becomes an image of thought itself: each uncertain step sustained by fear and the barriers the mind creates. As fear is seen clearly and thought falls away, the song imagines love moving freely beyond the wire."
       }
     ],
     "lead": "As the evening unfolds, the line between performance and imagination begins to disappear."
@@ -114,37 +114,37 @@ window.ALBUM = [
         "title": "Save Me a Spotlight, Brother",
         "file": "audio/act-3-01.mp3",
         "download": false,
-        "description": "A personal and reflective story about a performer's life, the passage of time, and the desire to remain part of the show."
+        "description": "An ageing clown remembers the touring life he shared with Pablo, holding on to a faded playbill after his friend’s death. As crowds dwindle and old jokes grow quieter, his appeal for a shared spotlight becomes a tender hope for reunion and one final bow."
       },
       {
         "title": "Trampoline Leaps",
         "file": "audio/act-3-02.mp3",
         "download": false,
-        "description": "A thrilling display of aerial acrobatics, capturing the energy and daring of the circus performers."
+        "description": "Circus acrobatics become a playful double entendre for a passionate encounter after the audience has gone. Bounces, catches and fiery leaps carry the song from the public spectacle into the performers’ private midnight world."
       },
       {
         "title": "Ten Somersets",
         "file": "audio/act-3-03.mp3",
         "download": false,
-        "description": "Mr. Henderson's determination to accomplish an extraordinary acrobatic feat, despite years of effort and repeated failures."
+        "description": "Town after town, Mr. Henderson pursues ten consecutive somersets through painful falls and advancing years. He finally lands them on an ordinary day without an audience, finding a quiet triumph that needs no applause."
       },
       {
         "title": "Hogshead of Real Fire",
         "file": "audio/act-3-04.mp3",
         "download": false,
-        "description": "A chaotic, wildly psychedelic spectacle in which the boundaries of the circus—and reality itself—begin to unravel."
+        "description": "A blazing barrel sends the circus spinning into a feverish dream of multiplying shadows, melting faces and laughter. An absurd emergency broadcast interrupts the chaos as identities blur and the spectacle threatens to swallow everyone inside it."
       },
       {
         "title": "Last Night but Three (Pablo’s Thank You)",
         "file": "audio/act-3-05.mp3",
         "download": false,
-        "description": "Pablo Fanque offers a heartfelt expression of gratitude to the audience whose enthusiasm gives the circus its meaning."
+        "description": "Pablo steps into the ring to thank the children, workers and families whose laughter gives the travelling show its purpose. His farewell turns the spotlight toward the audience, carrying their warmth beyond the evening’s final bow."
       },
       {
         "title": "Pablo Fanque's Circus Royal (Reprise)",
         "file": "audio/act-3-06.mp3",
         "download": false,
-        "description": "The grand musical finale, bringing the performers and audience together for one last celebration."
+        "description": "Trumpets, horses, tumblers and the company’s exuberant invitation bring Circus Royal back to full colour. The finale celebrates Pablo and his show with a last communal call to step into the light."
       }
     ],
     "lead": "The spectacle reaches its climax, the performers confront their stories, and the circus prepares to take its final bow."
