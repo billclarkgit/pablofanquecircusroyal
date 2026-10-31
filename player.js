@@ -5,7 +5,7 @@ const fmt=s=>Number.isFinite(s)?`${Math.floor(s/60)}:${String(Math.floor(s%60)).
 const players=[];
 window.ALBUM.forEach(act=>{
  const section=el('section','act');section.id=`act-${act.number}`;
- const heading=el('div','act-heading');heading.append(el('div','roman',act.roman));const title=el('div');title.append(el('p','eyebrow',`Act ${act.roman} · Six songs`),el('h2','',act.title));heading.append(title);section.append(heading,el('p','lead',act.lead));
+ const heading=el('div','act-heading');const actArt=el('img','act-heading-art');actArt.src=`assets/act-${act.number}.svg`;actArt.alt=`Act ${act.roman} — ${act.title}`;heading.append(actArt);const title=el('div');title.append(el('h2','',act.title));heading.append(title);section.append(heading,el('p','lead',act.lead));
  const layout=el('div','act-story-layout'),narrative=el('div','narrative');act.narrative.forEach(p=>narrative.append(el('p','',p)));
  const panel=el('div','player');panel.setAttribute('aria-label',`Act ${act.roman} audio player`);
  const info=el('div','album-info'),img=el('img');img.src=`assets/act-${act.number}.svg`;img.alt=`Circus Royal Act ${act.roman} cover illustration`;const meta=el('div');meta.append(el('p','eyebrow',`The recordings · Act ${act.roman}`),el('h3','',act.title),el('p','',"Pablo Fanque’s Circus Royal"));info.append(img,meta);
