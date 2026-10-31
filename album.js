@@ -76,7 +76,7 @@ window.ALBUM = [
         "title": "Wallett's Jam",
         "file": "audio/act-2-03.mp3",
         "download": false,
-        "description": "W. F. Wallett returns in a lively musical interlude, revealing another side of the celebrated entertainer."
+        "description": "An instrumental interlude centred on W. F. Wallett, offering a musical pause between the act’s character stories."
       },
       {
         "title": "Henry was Zanthus",
