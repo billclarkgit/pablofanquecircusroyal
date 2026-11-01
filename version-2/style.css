@@ -182,3 +182,7 @@ nav a[aria-current="page"]{color:var(--gold);text-decoration:underline;text-unde
 .music-grid .track-copy strong,
 .music-grid .song-description p,
 .music-grid .lyric-stanza p{font-family:Georgia,serif;font-size:14px;font-weight:400;font-style:normal;line-height:1.75}
+
+/* Version 2: concept introduction followed by the three music players. */
+.concept-copy{margin-inline:auto}
+.concept-copy>p{margin-bottom:16px}
