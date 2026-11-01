@@ -261,3 +261,12 @@ nav a[aria-current="page"]{color:var(--gold);text-decoration:underline;text-unde
 .track-meta{margin-top:2px;line-height:1.3}
 .cover-coming-soon::before,.cover-coming-soon::after{content:none;display:none}
 @media(max-width:900px){.music-grid .track-line,.music-grid .select-track{min-height:56px}.music-grid .player{min-height:0}}
+
+/* Track title and duration share a compact line. */
+.music-grid .track-copy{display:flex;align-items:baseline;gap:10px;min-width:0}
+.music-grid .track-copy strong{flex:1;min-width:0}
+.music-grid .track-length{flex:none;white-space:nowrap;font:12px/1.5 Georgia,serif;color:var(--muted);font-variant-numeric:tabular-nums}
+.music-grid .track-line,.music-grid .select-track{min-height:44px}
+.music-grid .track-line{height:auto}
+.music-grid .select-track{padding-block:7px}
+@media(max-width:900px){.music-grid .track-line,.music-grid .select-track{min-height:44px}}
