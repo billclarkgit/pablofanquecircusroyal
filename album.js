@@ -70,7 +70,8 @@ window.ALBUM = [
             ]
           }
         ],
-        "recorded": null
+        "recorded": "2026-10-03",
+        "recordingDateIsSample": true
       },
       {
         "title": "The Thrill of Mr. K",
@@ -135,7 +136,8 @@ window.ALBUM = [
             ]
           }
         ],
-        "recorded": null
+        "recorded": "2026-10-08",
+        "recordingDateIsSample": true
       },
       {
         "title": "The Life and Death of Cock Robin",
@@ -244,7 +246,8 @@ window.ALBUM = [
             ]
           }
         ],
-        "recorded": null
+        "recorded": "2026-10-12",
+        "recordingDateIsSample": true
       },
       {
         "title": "Nymph of the Flowing Veil",
@@ -325,7 +328,8 @@ window.ALBUM = [
           }
         ],
         "duration": 274.592,
-        "recorded": null
+        "recorded": "2026-10-17",
+        "recordingDateIsSample": true
       },
       {
         "title": "Unrelated Acts of Wonder",
@@ -404,7 +408,8 @@ window.ALBUM = [
             ]
           }
         ],
-        "recorded": null
+        "recorded": "2026-10-23",
+        "recordingDateIsSample": true
       },
       {
         "title": "Amateur Gentlemen",
@@ -488,7 +493,8 @@ window.ALBUM = [
             ]
           }
         ],
-        "recorded": null
+        "recorded": "2026-10-29",
+        "recordingDateIsSample": true
       }
     ],
     "lead": "The curtain rises, the performers assemble, and the audience enters a world of wonder."
@@ -590,7 +596,8 @@ window.ALBUM = [
             ]
           }
         ],
-        "recorded": null
+        "recorded": null,
+        "recordingStatus": "To be recorded"
       },
       {
         "title": "A Splendid Night",
@@ -670,7 +677,8 @@ window.ALBUM = [
             ]
           }
         ],
-        "recorded": null
+        "recorded": null,
+        "recordingStatus": "To be recorded"
       },
       {
         "title": "Wallett's Jam",
@@ -678,7 +686,8 @@ window.ALBUM = [
         "download": false,
         "description": "An instrumental interlude centred on W. F. Wallett, offering a musical pause between the act’s character stories.",
         "instrumental": true,
-        "recorded": null
+        "recorded": null,
+        "recordingStatus": "To be recorded"
       },
       {
         "title": "Henry was Zanthus",
@@ -757,7 +766,8 @@ window.ALBUM = [
             ]
           }
         ],
-        "recorded": null
+        "recorded": null,
+        "recordingStatus": "To be recorded"
       },
       {
         "title": "La Sprite Diavolo",
@@ -837,7 +847,8 @@ window.ALBUM = [
             ]
           }
         ],
-        "recorded": null
+        "recorded": null,
+        "recordingStatus": "To be recorded"
       },
       {
         "title": "On the Tightrope",
@@ -866,7 +877,8 @@ window.ALBUM = [
             ]
           }
         ],
-        "recorded": null
+        "recorded": null,
+        "recordingStatus": "To be recorded"
       }
     ],
     "lead": "As the evening unfolds, the line between performance and imagination begins to disappear."
@@ -962,7 +974,8 @@ window.ALBUM = [
             ]
           }
         ],
-        "recorded": null
+        "recorded": null,
+        "recordingStatus": "To be recorded"
       },
       {
         "title": "Trampoline Leaps",
@@ -1019,7 +1032,8 @@ window.ALBUM = [
             ]
           }
         ],
-        "recorded": null
+        "recorded": null,
+        "recordingStatus": "To be recorded"
       },
       {
         "title": "Ten Somersets",
@@ -1082,7 +1096,8 @@ window.ALBUM = [
             ]
           }
         ],
-        "recorded": null
+        "recorded": null,
+        "recordingStatus": "To be recorded"
       },
       {
         "title": "Hogshead of Real Fire",
@@ -1216,7 +1231,8 @@ window.ALBUM = [
             ]
           }
         ],
-        "recorded": null
+        "recorded": null,
+        "recordingStatus": "To be recorded"
       },
       {
         "title": "Last Night but Three (Pablo’s Thank You)",
@@ -1282,7 +1298,8 @@ window.ALBUM = [
             ]
           }
         ],
-        "recorded": null
+        "recorded": null,
+        "recordingStatus": "To be recorded"
       },
       {
         "title": "Pablo Fanque's Circus Royal (Reprise)",
@@ -1336,7 +1353,8 @@ window.ALBUM = [
             ]
           }
         ],
-        "recorded": null
+        "recorded": null,
+        "recordingStatus": "To be recorded"
       }
     ],
     "lead": "The spectacle reaches its climax, the performers confront their stories, and the circus prepares to take its final bow."
