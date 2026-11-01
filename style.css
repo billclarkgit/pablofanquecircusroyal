@@ -163,11 +163,6 @@ nav a[aria-current="page"]{color:var(--gold);text-decoration:underline;text-unde
 .instrumental-note{font-style:italic;margin:0}
 @media(max-width:600px){.music-grid .song-notes{max-height:60vh;padding-right:10px}.lyric-stanza p{font-size:15px}}
 
-/* Circular painted drumhead identity. */
-.hero.brand-banner{max-width:640px;padding:24px 4% 32px}
-.banner-logo{max-width:500px}
-@media(max-width:600px){.hero.brand-banner{padding:20px 8% 24px}}
-
 /* Act artwork links directly to its matching player. */
 .act-art-link{display:block;width:100%;max-width:350px;justify-self:end;line-height:0}
 .act-art-link .act-heading-art{display:block}
