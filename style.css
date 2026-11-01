@@ -136,3 +136,6 @@ nav a[aria-current="page"]{color:var(--gold);text-decoration:underline;text-unde
 .concept-copy .concept-question{font-size:21px;color:var(--gold);font-style:italic;margin:18px 0}
 .concept-copy .concept-closing{font-size:20px;color:var(--gold);font-style:italic;border-top:1px solid var(--line);padding-top:18px;margin-top:24px}
 @media(max-width:600px){#acts>h2,#music>h2,#concept>h2{font-size:30px}.act-heading h2{font-size:23px}.concept-section{padding:28px 5% 34px}.concept-copy h3{font-size:21px}}
+
+/* Match the centered section titles used by The Acts. */
+#music>.eyebrow,#music>h2,#concept>.eyebrow,#concept>h2{text-align:center}
