@@ -221,3 +221,12 @@ nav a[aria-current="page"]{color:var(--gold);text-decoration:underline;text-unde
 .music-grid .album-info>div>p:not(.coming-soon){font-size:12px}
 @media(min-width:901px) and (max-width:1100px){.music-grid .album-info h3{font-size:12px}}
 @media(max-width:380px){.music-grid .album-info h3{font-size:12px}}
+
+/* Act artwork on the left, title and notes on the right. */
+.music-grid .album-info{display:grid;grid-template-columns:210px minmax(0,1fr);gap:14px;align-items:center;justify-content:normal;height:230px;min-height:230px;text-align:left}
+.music-grid .album-info img{width:210px;height:210px}
+.music-grid .album-info h3{font-size:14px;line-height:1.35;white-space:normal;margin:0 0 8px}
+.music-grid .album-info>div>p:not(.coming-soon){font-size:12px;line-height:1.5}
+@media(min-width:901px) and (max-width:1200px){.music-grid{grid-template-columns:1fr;max-width:760px}.music-grid .album-info h3{font-size:16px}}
+@media(max-width:600px){.music-grid .album-info{gap:12px;grid-template-columns:210px minmax(0,1fr)}.music-grid .album-info h3{font-size:13px}}
+@media(max-width:420px){.music-grid .album-info{grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);height:210px;min-height:210px;gap:10px}.music-grid .album-info img{width:100%;height:auto;max-height:210px}.music-grid .album-info h3{font-size:12px}.music-grid .album-info>div>p:not(.coming-soon){font-size:10px}}
