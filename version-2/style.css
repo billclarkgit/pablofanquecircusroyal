@@ -255,7 +255,7 @@ nav a[aria-current="page"]{color:var(--gold);text-decoration:underline;text-unde
 
 /* Compact song rows and plain-text Victorian notices. */
 .music-grid .track-line,.music-grid .select-track{min-height:56px}
-.music-grid .track-line{height:56px}
+.music-grid .track-line{height:auto}
 .music-grid .select-track{padding-block:5px}
 .music-grid .tracks li{padding-block:0}
 .track-meta{margin-top:2px;line-height:1.3}
