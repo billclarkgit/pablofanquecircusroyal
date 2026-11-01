@@ -16,7 +16,7 @@ window.ALBUM.forEach(act=>{
  const status=el('p','status','Recordings will be available when audio files are added.');status.setAttribute('role','status');
  const list=el('ol','tracks'),rows=[];let selected=0;
  act.tracks.forEach((track,i)=>{const row=el('li'),line=el('div','track-line'),button=el('button','select-track'),description=el('div','inline-track-story song-notes');button.type='button';
- const story=el('div','song-description');story.append(el('h4','','Behind the song'),el('p','',track.description));description.append(story);
+ const story=el('div','song-description');story.append(el('p','',track.description));description.append(story);
  const lyricPanel=el('div','song-lyrics');lyricPanel.append(el('h4','',track.instrumental?'Instrumental':'Lyrics'));
  if(track.instrumental){lyricPanel.append(el('p','instrumental-note','An instrumental performance — no sung lyrics.'))}
  else if(track.lyrics&&track.lyrics.length){track.lyrics.forEach(verse=>{const stanza=el('section','lyric-stanza');if(verse.label)stanza.append(el('h5','',verse.label));stanza.append(el('p','',verse.lines.join('\n')));lyricPanel.append(stanza)})}

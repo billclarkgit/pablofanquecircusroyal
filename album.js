@@ -4,9 +4,9 @@ window.ALBUM = [
     "roman": "I",
     "title": "Pablo Presents",
     "narrative": [
-      "The opening act introduces the excitement and spectacle of Circus Royal. The ringmaster welcomes the audience, extraordinary acts take center stage, and a colorful collection of characters begins to emerge.",
-      "From Mr. Kite's breathtaking feats to W. F. Wallett's curious theatrical storytelling, the circus offers entertainment both magnificent and absurd. A mysterious nymph introduces an element of psychedelic fantasy, while the antics of a clown and the enthusiasm of ordinary townspeople remind us that the circus is as much about its audience as its performers.",
-      "The first act establishes the circus as a place where, for a few extraordinary hours, the ordinary rules of life no longer seem to apply."
+      "The opening act introduces the spectacle of Circus Royal. The ringmaster welcomes the audience, extraordinary acts take center stage, and a colorful cast of characters emerges.",
+      "From Mr. Kite's breathtaking feats to W. F. Wallett's theatrical storytelling, the circus offers entertainment both magnificent and absurd. A mysterious nymph introduces psychedelic fantasy, while a clown’s antics and the enthusiasm of ordinary townspeople remind us that the circus belongs to its audience as much as its performers.",
+      "For a few extraordinary hours, the circus becomes a place where the ordinary rules of life no longer seem to apply."
     ],
     "tracks": [
       {
@@ -491,10 +491,10 @@ window.ALBUM = [
     "roman": "II",
     "title": "Miss K, the Siren",
     "narrative": [
-      "The second act moves deeper into the lives and imaginations of the performers. The spectacle becomes more personal, and the stories take on increasingly unusual and sometimes darker dimensions.",
-      "A delicate slack-wire performance becomes a moment of fascination and longing. Wallett returns with his own musical contribution, while Henry's story introduces another curious circus personality.",
-      "The act culminates in the psychological struggle of La Sprite Diavolo, a tightrope performer divided against himself, before moving into a more contemplative meditation on fear, balance, and the precariousness of life.",
-      "By the end of Act II, the circus has become something more than entertainment. Its extraordinary performances have begun to mirror the complexities of the people who perform them."
+      "The second act moves deeper into the performers’ lives and imaginations. The spectacle becomes personal, and the stories take on unusual, sometimes darker dimensions.",
+      "A slack-wire performance becomes a moment of fascination and longing. Wallett returns with a musical contribution, while Henry’s story introduces another curious circus personality.",
+      "The act culminates in the struggle of La Sprite Diavolo, a tightrope performer divided against himself, before turning to a meditation on fear, balance, and the precariousness of life.",
+      "By the end of Act II, the circus has become more than entertainment. Its performances mirror the complexities of the people behind them."
     ],
     "tracks": [
       {
@@ -863,10 +863,10 @@ window.ALBUM = [
     "roman": "III",
     "title": "Wallett, the Queen’s Jester",
     "narrative": [
-      "The final act brings together the album's themes of ambition, perseverance, humor, and the fleeting nature of performance.",
-      "Behind the applause lies a more personal world of memories and sacrifices. Acrobats push themselves toward impossible achievements, while the circus itself grows increasingly extravagant and surreal.",
-      "As the evening draws to a close, Pablo Fanque steps forward to thank his audience. The performers gather one last time, and the music returns to the exuberance and celebration with which the evening began.",
-      "The final act closes the circle. What began as an invitation to witness extraordinary entertainment becomes a celebration of the people who make that entertainment possible."
+      "The final act brings together ambition, perseverance, humor, and the fleeting nature of performance.",
+      "Behind the applause lie memories and sacrifices. Acrobats push toward impossible achievements, while the circus grows increasingly extravagant and surreal.",
+      "As the evening closes, Pablo Fanque steps forward to thank his audience. The performers gather one last time, returning to the exuberance and celebration with which the evening began.",
+      "The final act closes the circle. An invitation to witness extraordinary entertainment becomes a celebration of the people who make it possible."
     ],
     "tracks": [
       {
