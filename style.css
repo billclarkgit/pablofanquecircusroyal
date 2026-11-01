@@ -150,3 +150,15 @@ nav a[aria-current="page"]{color:var(--gold);text-decoration:underline;text-unde
 .music-grid .album-info img{object-fit:contain;background:#211c18}
 .act-heading-art{object-fit:contain}
 @media(max-width:600px){.hero.brand-banner{padding:20px 5% 24px}.hero.brand-banner h1{margin:0}}
+
+/* A song's story and lyric sheet unfold together inside its player. */
+.music-grid .song-notes{margin:0 0 12px;padding:0 12px 16px 22px;max-height:520px;overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin;scrollbar-color:var(--gold) transparent}
+.song-description{padding:12px 0 15px;border-top:1px solid var(--line)}
+.song-notes h4{font:11px/1.4 Georgia,serif;text-transform:uppercase;letter-spacing:1.5px;color:var(--gold);margin:0 0 9px}
+.song-notes .song-description p{margin:0;font-size:13px;line-height:1.65;color:var(--muted)}
+.song-lyrics{border-top:1px solid var(--line);padding-top:15px}
+.lyric-stanza{margin:0 0 18px}
+.lyric-stanza h5{font:italic 12px/1.5 Georgia,serif;color:var(--gold);margin:0 0 5px}
+.lyric-stanza p{white-space:pre-line;font:14px/1.75 Georgia,serif;color:var(--ivory,#ece3d2);margin:0}
+.instrumental-note{font-style:italic;margin:0}
+@media(max-width:600px){.music-grid .song-notes{max-height:60vh;padding-right:10px}.lyric-stanza p{font-size:15px}}
