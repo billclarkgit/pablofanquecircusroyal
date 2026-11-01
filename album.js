@@ -69,7 +69,8 @@ window.ALBUM = [
               "The curtain rises."
             ]
           }
-        ]
+        ],
+        "recorded": null
       },
       {
         "title": "The Thrill of Mr. K",
@@ -133,7 +134,8 @@ window.ALBUM = [
               "He can't stop, He won't stop, ……He's fading away"
             ]
           }
-        ]
+        ],
+        "recorded": null
       },
       {
         "title": "The Life and Death of Cock Robin",
@@ -241,7 +243,8 @@ window.ALBUM = [
               "Nothing left..."
             ]
           }
-        ]
+        ],
+        "recorded": null
       },
       {
         "title": "Nymph of the Flowing Veil",
@@ -320,7 +323,9 @@ window.ALBUM = [
               "Nymph of the flowing veil"
             ]
           }
-        ]
+        ],
+        "duration": 274.592,
+        "recorded": null
       },
       {
         "title": "Unrelated Acts of Wonder",
@@ -398,7 +403,8 @@ window.ALBUM = [
               "Your turn."
             ]
           }
-        ]
+        ],
+        "recorded": null
       },
       {
         "title": "Amateur Gentlemen",
@@ -481,7 +487,8 @@ window.ALBUM = [
               "Hey-ho, the amateur gentlemen of the town"
             ]
           }
-        ]
+        ],
+        "recorded": null
       }
     ],
     "lead": "The curtain rises, the performers assemble, and the audience enters a world of wonder."
@@ -582,7 +589,8 @@ window.ALBUM = [
               "Mr. Kite’s sister, forever you sing."
             ]
           }
-        ]
+        ],
+        "recorded": null
       },
       {
         "title": "A Splendid Night",
@@ -661,14 +669,16 @@ window.ALBUM = [
               "but nobody's leaving this splendid night."
             ]
           }
-        ]
+        ],
+        "recorded": null
       },
       {
         "title": "Wallett's Jam",
         "file": "audio/act-2-03.mp3",
         "download": false,
         "description": "An instrumental interlude centred on W. F. Wallett, offering a musical pause between the act’s character stories.",
-        "instrumental": true
+        "instrumental": true,
+        "recorded": null
       },
       {
         "title": "Henry was Zanthus",
@@ -746,7 +756,8 @@ window.ALBUM = [
               "That’s why Zanthus the horse is called Henry."
             ]
           }
-        ]
+        ],
+        "recorded": null
       },
       {
         "title": "La Sprite Diavolo",
@@ -825,7 +836,8 @@ window.ALBUM = [
               "here we go, here we go"
             ]
           }
-        ]
+        ],
+        "recorded": null
       },
       {
         "title": "On the Tightrope",
@@ -853,7 +865,8 @@ window.ALBUM = [
               "On the tightrope"
             ]
           }
-        ]
+        ],
+        "recorded": null
       }
     ],
     "lead": "As the evening unfolds, the line between performance and imagination begins to disappear."
@@ -948,7 +961,8 @@ window.ALBUM = [
               "Until our final bow,"
             ]
           }
-        ]
+        ],
+        "recorded": null
       },
       {
         "title": "Trampoline Leaps",
@@ -1004,7 +1018,8 @@ window.ALBUM = [
               "Hey darlin’—bounce it again"
             ]
           }
-        ]
+        ],
+        "recorded": null
       },
       {
         "title": "Ten Somersets",
@@ -1066,7 +1081,8 @@ window.ALBUM = [
               "Ten somersets, alive in your eyes"
             ]
           }
-        ]
+        ],
+        "recorded": null
       },
       {
         "title": "Hogshead of Real Fire",
@@ -1199,7 +1215,8 @@ window.ALBUM = [
               "Haaaaaa!"
             ]
           }
-        ]
+        ],
+        "recorded": null
       },
       {
         "title": "Last Night but Three (Pablo’s Thank You)",
@@ -1264,7 +1281,8 @@ window.ALBUM = [
               "From the last night but three."
             ]
           }
-        ]
+        ],
+        "recorded": null
       },
       {
         "title": "Pablo Fanque's Circus Royal (Reprise)",
@@ -1317,7 +1335,8 @@ window.ALBUM = [
               "Pablo Fanque’s Circus Royal!"
             ]
           }
-        ]
+        ],
+        "recorded": null
       }
     ],
     "lead": "The spectacle reaches its climax, the performers confront their stories, and the circus prepares to take its final bow."

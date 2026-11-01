@@ -170,3 +170,10 @@ nav a[aria-current="page"]{color:var(--gold);text-decoration:underline;text-unde
 .act-art-link:hover .act-heading-art{border-color:var(--gold)}
 .player[id]{scroll-margin-top:24px}
 @media(max-width:760px){.act-art-link{width:min(100%,300px);justify-self:center}}
+
+/* Recording details stay compact beneath each track name. */
+.track-copy{display:block;flex:1;min-width:0}
+.track-copy strong{display:block}
+.track-meta{display:flex;flex-wrap:wrap;gap:3px 12px;margin-top:4px;font:10px/1.5 Georgia,serif;color:var(--muted)}
+.track-meta>span{white-space:nowrap}
+.select-track>.track-copy{color:inherit}

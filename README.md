@@ -69,3 +69,8 @@ Select a track name to expand its full description directly underneath inside th
 ## Included working prototype
 
 Act I selects Nymph of the Flowing Veil by default. Click its play button or track row to hear your supplied September 14 mix and expand its description. A browser-compatible 16-bit, 44.1 kHz WAV copy is included; the original source remains untouched. Its duration is read from the recording (approximately 4:34). The other seventeen songs have no recordings attached yet. `serve.py` supports audio range requests so seeking works during local preview. No audio has been published to an external host.
+
+
+### Track recording details
+
+Each track in `album.js` supports `recorded` (a confirmed recording date in `YYYY-MM-DD` format, or `null`) and `duration` (seconds, when measured). Missing values display as dashes. When an audio file loads, its measured duration updates the track’s length automatically. Save measured durations in `album.js` to show them before playback. Never infer recording dates from upload dates or file modification times.
