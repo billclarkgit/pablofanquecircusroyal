@@ -502,7 +502,7 @@ window.ALBUM = [
   {
     "number": 2,
     "roman": "II",
-    "title": "Miss K, the Siren",
+    "title": "The Siren",
     "narrative": [
       "The second act moves deeper into the performers’ lives and imaginations. The spectacle becomes personal, and the stories take on unusual, sometimes darker dimensions.",
       "A slack-wire performance becomes a moment of fascination and longing. Wallett returns with a musical contribution, while Henry’s story introduces another curious circus personality.",
