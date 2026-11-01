@@ -2,7 +2,7 @@ window.ALBUM = [
   {
     "number": 1,
     "roman": "I",
-    "title": "The Spectacle Begins",
+    "title": "Pablo Presents",
     "narrative": [
       "The opening act introduces the excitement and spectacle of Circus Royal. The ringmaster welcomes the audience, extraordinary acts take center stage, and a colorful collection of characters begins to emerge.",
       "From Mr. Kite's breathtaking feats to W. F. Wallett's curious theatrical storytelling, the circus offers entertainment both magnificent and absurd. A mysterious nymph introduces an element of psychedelic fantasy, while the antics of a clown and the enthusiasm of ordinary townspeople remind us that the circus is as much about its audience as its performers.",
@@ -489,7 +489,7 @@ window.ALBUM = [
   {
     "number": 2,
     "roman": "II",
-    "title": "Beyond the Ring",
+    "title": "Miss K, the Siren",
     "narrative": [
       "The second act moves deeper into the lives and imaginations of the performers. The spectacle becomes more personal, and the stories take on increasingly unusual and sometimes darker dimensions.",
       "A delicate slack-wire performance becomes a moment of fascination and longing. Wallett returns with his own musical contribution, while Henry's story introduces another curious circus personality.",
@@ -861,7 +861,7 @@ window.ALBUM = [
   {
     "number": 3,
     "roman": "III",
-    "title": "The Final Performance",
+    "title": "Wallett, the Queen’s Jester",
     "narrative": [
       "The final act brings together the album's themes of ambition, perseverance, humor, and the fleeting nature of performance.",
       "Behind the applause lies a more personal world of memories and sacrifices. Acrobats push themselves toward impossible achievements, while the circus itself grows increasingly extravagant and surreal.",
