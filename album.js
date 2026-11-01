@@ -70,7 +70,7 @@ window.ALBUM = [
         "title": "A Splendid Night",
         "file": "audio/act-2-02.mp3",
         "download": false,
-        "description": "A celebration of the extraordinary atmosphere and fleeting magic of an evening at Circus Royal."
+        "description": "Families, sweethearts and mill-town crowds ride the railway into Rochdale for a night at Circus Royal. Steam, rattling carriages and gaslit streets build the excitement as the trains deliver their passengers to Pablo’s band, daring performers and the promise of a show nobody wants to leave."
       },
       {
         "title": "Wallett's Jam",
