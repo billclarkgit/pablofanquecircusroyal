@@ -167,3 +167,11 @@ nav a[aria-current="page"]{color:var(--gold);text-decoration:underline;text-unde
 .hero.brand-banner{max-width:640px;padding:24px 4% 32px}
 .banner-logo{max-width:500px}
 @media(max-width:600px){.hero.brand-banner{padding:20px 8% 24px}}
+
+/* Act artwork links directly to its matching player. */
+.act-art-link{display:block;width:100%;max-width:350px;justify-self:end;line-height:0}
+.act-art-link .act-heading-art{display:block}
+.act-art-link:focus-visible{outline:2px solid var(--gold);outline-offset:6px}
+.act-art-link:hover .act-heading-art{border-color:var(--gold)}
+.player[id]{scroll-margin-top:24px}
+@media(max-width:760px){.act-art-link{width:min(100%,300px);justify-self:center}}
