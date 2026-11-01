@@ -71,7 +71,9 @@ window.ALBUM = [
           }
         ],
         "recorded": "2026-10-03",
-        "recordingDateIsSample": true
+        "recordingDateIsSample": true,
+        "duration": 197,
+        "durationIsPlaceholder": true
       },
       {
         "title": "The Thrill of Mr. K",
@@ -137,7 +139,9 @@ window.ALBUM = [
           }
         ],
         "recorded": "2026-10-08",
-        "recordingDateIsSample": true
+        "recordingDateIsSample": true,
+        "duration": 224,
+        "durationIsPlaceholder": true
       },
       {
         "title": "The Life and Death of Cock Robin",
@@ -247,7 +251,9 @@ window.ALBUM = [
           }
         ],
         "recorded": "2026-10-12",
-        "recordingDateIsSample": true
+        "recordingDateIsSample": true,
+        "duration": 208,
+        "durationIsPlaceholder": true
       },
       {
         "title": "Nymph of the Flowing Veil",
@@ -409,7 +415,9 @@ window.ALBUM = [
           }
         ],
         "recorded": "2026-10-23",
-        "recordingDateIsSample": true
+        "recordingDateIsSample": true,
+        "duration": 231,
+        "durationIsPlaceholder": true
       },
       {
         "title": "Amateur Gentlemen",
@@ -494,7 +502,9 @@ window.ALBUM = [
           }
         ],
         "recorded": "2026-10-29",
-        "recordingDateIsSample": true
+        "recordingDateIsSample": true,
+        "duration": 186,
+        "durationIsPlaceholder": true
       }
     ],
     "lead": "The curtain rises, the performers assemble, and the audience enters a world of wonder.",
