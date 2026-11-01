@@ -139,3 +139,6 @@ nav a[aria-current="page"]{color:var(--gold);text-decoration:underline;text-unde
 
 /* Match the centered section titles used by The Acts. */
 #music>.eyebrow,#music>h2,#concept>.eyebrow,#concept>h2{text-align:center}
+
+/* Act opening lines match the highlighted question in The Concept. */
+.act>.lead{font-size:21px;color:var(--gold);font-style:italic;line-height:1.65;margin:18px 0}
