@@ -186,3 +186,5 @@ nav a[aria-current="page"]{color:var(--gold);text-decoration:underline;text-unde
 /* Version 2: concept introduction followed by the three music players. */
 .concept-copy{margin-inline:auto}
 .concept-copy>p{margin-bottom:16px}
+
+.music-grid .album-info .coming-soon{display:inline-block;margin:6px 0 0;padding:2px 8px;border:1px solid var(--line);color:var(--gold);font:italic 12px/1.5 Georgia,serif}

@@ -497,7 +497,8 @@ window.ALBUM = [
         "recordingDateIsSample": true
       }
     ],
-    "lead": "The curtain rises, the performers assemble, and the audience enters a world of wonder."
+    "lead": "The curtain rises, the performers assemble, and the audience enters a world of wonder.",
+    "comingSoon": false
   },
   {
     "number": 2,
@@ -881,12 +882,13 @@ window.ALBUM = [
         "recordingStatus": "To be recorded"
       }
     ],
-    "lead": "As the evening unfolds, the line between performance and imagination begins to disappear."
+    "lead": "As the evening unfolds, the line between performance and imagination begins to disappear.",
+    "comingSoon": true
   },
   {
     "number": 3,
     "roman": "III",
-    "title": "Wallett, the Queen’s Jester",
+    "title": "Wallett, Queen’s Jester",
     "narrative": [
       "The final act brings together ambition, perseverance, humor, and the fleeting nature of performance.",
       "Behind the applause lie memories and sacrifices. Acrobats push toward impossible achievements, while the circus grows increasingly extravagant and surreal.",
@@ -1357,6 +1359,7 @@ window.ALBUM = [
         "recordingStatus": "To be recorded"
       }
     ],
-    "lead": "The spectacle reaches its climax, the performers confront their stories, and the circus prepares to take its final bow."
+    "lead": "The spectacle reaches its climax, the performers confront their stories, and the circus prepares to take its final bow.",
+    "comingSoon": true
   }
 ];
