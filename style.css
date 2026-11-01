@@ -177,3 +177,8 @@ nav a[aria-current="page"]{color:var(--gold);text-decoration:underline;text-unde
 .track-meta{display:flex;flex-wrap:wrap;gap:3px 12px;margin-top:4px;font:10px/1.5 Georgia,serif;color:var(--muted)}
 .track-meta>span{white-space:nowrap}
 .select-track>.track-copy{color:inherit}
+
+/* One reading style for track titles, descriptions, and lyrics. */
+.music-grid .track-copy strong,
+.music-grid .song-description p,
+.music-grid .lyric-stanza p{font-family:Georgia,serif;font-size:14px;font-weight:400;font-style:normal;line-height:1.75}
